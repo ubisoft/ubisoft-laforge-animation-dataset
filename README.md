@@ -1,4 +1,4 @@
-# Ubisoft LaForge Animation Dataset 1 - LaFAN1
+# Ubisoft LaForge Animation Dataset - LaFAN1
 ![LaFAN1](images/lafan1_1635_cropped.jpg)
 
 Ubisoft La Forge Animation dataset and accompanying code for the Robust In-Betweening SIGGRAPH 2020 article.  
