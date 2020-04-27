@@ -4,7 +4,7 @@
 Ubisoft La Forge Animation dataset and accompanying code for the Robust In-Betweening SIGGRAPH 2020 article.  
 Shot in May 2017.
 
-This dataset can be used under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (see license.txt)
+This dataset can be used under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (see license.txt).
 
 ## Data
 The animation data is contained in the lafan1.zip file.  
