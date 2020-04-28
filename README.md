@@ -10,7 +10,7 @@ This dataset can be used under the Creative Commons Attribution-NonCommercial-No
 The animation data is contained in the lafan1.zip file.  
 All the animation sequences are in the BVH file format.  
 There are 5 subjects in the dataset, 77 sequences, and 496,672 motion frames at 30fps (~4.6 hours).  
-Every BVH file is named with the folowwing convention: \[*theme*\]\[*take number*\]_\[*subject ID*\].bvh.  
+Every BVH file is named with the folowing convention: \[*theme*\]\[*take number*\]_\[*subject ID*\].bvh.  
 Any sequences sharing the same *theme* and *take_number* were recorded at the same time in the studio.  
 Themes are high level indicators of the actions in the sequences.
 
