@@ -1,10 +1,31 @@
 # Ubisoft La Forge Animation Dataset ("LAFAN1")
 ![LaFAN1](images/lafan1_1635_cropped.jpg)
 
-Ubisoft La Forge Animation dataset and accompanying code for the Robust In-Betweening SIGGRAPH 2020 article.  
+Ubisoft La Forge Animation dataset and accompanying code for the SIGGRAPH 2020 paper [Robust Motion In-betweening](https://montreal.ubisoft.com/en/automatic-in-betweening-for-faster-animation-authoring/).
+
 Shot in May 2017.
 
 This dataset can be used under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (see license.txt).
+
+If you use this dataset or transition benchmarking code, please consider citing the paper:
+```
+@article{harvey2020robust,
+author    = {Félix G. Harvey and Mike Yurick and Derek Nowrouzezahrai and Christopher Pal},
+title     = {Robust Motion In-Betweening},
+booktitle = {ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH)},
+publisher = {ACM},
+volume    = {39},
+number    = {4},
+year      = {2020}
+}
+```
+
+You might want to consider the following papers as well, as they also use this dataset (or parts of it):
+* [Learned Motion Matching (Holden et al., 2020)](http://theorangeduck.com/media/uploads/other_stuff/Learned_Motion_Matching.pdf)
+* [Subspace Neural Physics: Fast Data-Driven Interactive Simulation (Holden et al., 2019)](http://www.theorangeduck.com/media/uploads/other_stuff/deep-cloth-paper.pdf)
+* [Robust Solving of Optical Motion Capture Data by Denoising (Holden, 2018)](http://theorangeduck.com/media/uploads/other_stuff/neural_solver.pdf)
+* [Recurrent Transition Networks for Character Locomotion (Harvey et al., 2018)](https://arxiv.org/pdf/1810.02363.pdf)
+
 
 ## Data
 The animation data is contained in the lafan1.zip file.  
