@@ -28,7 +28,7 @@ You might want to consider the following papers as well, as they also use this d
 
 ## Cloning this repository using git lfs
 
-This repository contains zip files. In order to clone the repository including the large zip files, you need to use [git lfs](https://github.com/git-lfs/git-lfs/wiki/Installation). 
+This repository contains large files, e.g. `lafan1/lafan1.zip` (137M). In order to clone this repository including the complete zip files, you need to use [git lfs](https://github.com/git-lfs/git-lfs/wiki/Installation). 
 
 Example using Ubuntu 20.04:
 
@@ -39,7 +39,7 @@ git lfs install
 git clone https://github.com/ubisoft/ubisoft-laforge-animation-dataset.git
 ```
 
-If you do not have git lfs installed, you will see this error when trying to run `evaluate.py` or `evaluate_test.py`:
+If you do not have git lfs installed, you will see this error when trying to run `evaluate.py`:
 
 > BadZipfile: File is not a zip file
 
