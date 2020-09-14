@@ -26,6 +26,23 @@ You might want to consider the following papers as well, as they also use this d
 * [Robust Solving of Optical Motion Capture Data by Denoising (Holden, 2018)](http://theorangeduck.com/media/uploads/other_stuff/neural_solver.pdf)
 * [Recurrent Transition Networks for Character Locomotion (Harvey et al., 2018)](https://arxiv.org/pdf/1810.02363.pdf)
 
+## Cloning this repository using git lfs
+
+This repository contains zip files. In order to clone the repository including the large zip files, you need to use [git lfs](https://github.com/git-lfs/git-lfs/wiki/Installation). 
+
+Example using Ubuntu 20.04:
+
+```
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt-get install git-lfs
+git lfs install
+git clone https://github.com/ubisoft/ubisoft-laforge-animation-dataset.git
+```
+
+If you do not have git lfs installed, you will see this error when trying to run `evaluate.py` or `evaluate_test.py`:
+
+> BadZipfile: File is not a zip file
+
 
 ## Data
 The animation data is contained in the lafan1.zip file.  
