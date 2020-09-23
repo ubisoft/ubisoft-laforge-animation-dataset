@@ -20,9 +20,10 @@ year      = {2020}
 }
 ```
 
-You might want to consider the following papers as well, as they also use this dataset (or parts of it):
+You may also want to consider the following papers, as they also use this dataset (or parts of it):
 * [Learned Motion Matching (Holden et al., 2020)](http://theorangeduck.com/media/uploads/other_stuff/Learned_Motion_Matching.pdf)
 * [Subspace Neural Physics: Fast Data-Driven Interactive Simulation (Holden et al., 2019)](http://www.theorangeduck.com/media/uploads/other_stuff/deep-cloth-paper.pdf)
+* [DReCon: Data-Driven Responsive Control of Physics-Based Characters (Bergamin et al., 2019)](https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf)
 * [Robust Solving of Optical Motion Capture Data by Denoising (Holden, 2018)](http://theorangeduck.com/media/uploads/other_stuff/neural_solver.pdf)
 * [Recurrent Transition Networks for Character Locomotion (Harvey et al., 2018)](https://arxiv.org/pdf/1810.02363.pdf)
 
