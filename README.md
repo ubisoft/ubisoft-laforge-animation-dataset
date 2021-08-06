@@ -131,3 +131,5 @@ It is reported to correlate better with human judgement about motion.
 Its motivation and implementation details can be found in [their paper][1].
 
 [1]: <http://openaccess.thecvf.com/content_CVPR_2019/papers/Gopalakrishnan_A_Neural_Temporal_Model_for_Human_Motion_Prediction_CVPR_2019_paper.pdf> "A Neural Temporal Model for Human Motion Prediction"
+
+© [2018] Ubisoft Entertainment. All Rights Reserved
