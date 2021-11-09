@@ -164,7 +164,7 @@ def quat_mul_vec(q, x):
 
 def quat_slerp(x, y, a):
     """
-    Perfroms spherical linear interpolation (SLERP) between x and y, with proportion a
+    Performs spherical linear interpolation (SLERP) between x and y, with proportion a
 
     :param x: quaternion tensor
     :param y: quaternion tensor
