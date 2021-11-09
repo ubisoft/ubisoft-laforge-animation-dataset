@@ -49,7 +49,7 @@ If you do not have git lfs installed, you will see this error when trying to run
 The animation data is contained in the lafan1.zip file.  
 All the animation sequences are in the BVH file format.  
 There are 5 subjects in the dataset, 77 sequences, and 496,672 motion frames at 30fps (~4.6 hours).  
-Every BVH file is named with the folowing convention: \[*theme*\]\[*take number*\]_\[*subject ID*\].bvh.  
+Every BVH file is named with the following convention: \[*theme*\]\[*take number*\]_\[*subject ID*\].bvh.  
 Any sequences sharing the same *theme* and *take_number* were recorded at the same time in the studio.  
 Themes are high level indicators of the actions in the sequences.
 
@@ -77,9 +77,9 @@ The following themes are present in the LaFAN1 dataset:
 
 
 ### Requirements
-You should only need `numpy` installed in a python 3.X environment, but the code was developped with `python 3.7` and `numpy 1.17.4`
+You should only need `numpy` installed in a python 3.X environment, but the code was developed with `python 3.7` and `numpy 1.17.4`
 
-You can easily create a test environement with `conda` : 
+You can easily create a test environment with `conda` : 
 
 `conda create -n lafan_env python=3.7 numpy=1.17.4`
 
