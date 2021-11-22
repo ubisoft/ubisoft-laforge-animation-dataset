@@ -77,9 +77,9 @@ The following themes are present in the LaFAN1 dataset:
 
 
 ### Requirements
-You should only need `numpy` installed in a python 3.X environment, but the code was developped with `python 3.7` and `numpy 1.17.4`
+You should only need `numpy` installed in a python 3.X environment, but the code was developed with `python 3.7` and `numpy 1.17.4`
 
-You can easily create a test environement with `conda` : 
+You can easily create a test environment with `conda` : 
 
 `conda create -n lafan_env python=3.7 numpy=1.17.4`
 
